@@ -1,0 +1,10 @@
+people_database = {'jake' : ['Male' , '175 lbs'], 
+                        'beth' : ['Female' , '125 lbs'],
+                        'jeff' : ['Male' , '200 lbs'],
+                        'chanel' : ['Female' , '100 lbs'],
+                        'josh' : ['Male' , '190 lbs'],
+                        'casey' : ['Female' , '85 lbs'],
+                        'tony' : ['Male' , '210 lbs'],
+                        'madison' : ['Female' , '90 lbs'],
+                        'veto' : ['Male' , '230 lbs'],
+                        'kim' : ['Female' , '110 lbs']}
